@@ -6,7 +6,6 @@ public class Player : MonoBehaviour
     public float jumpHeight = 15f;
     public float moveSpeed = 5f;
 
-
     private float movement;
     private bool isGrounded;
 
