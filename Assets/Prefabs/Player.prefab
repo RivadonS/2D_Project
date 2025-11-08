@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5761657591915095144}
   - component: {fileID: 1010218061939472587}
   - component: {fileID: 8666455187449599937}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32,7 +32,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 8593466130591866319}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &8501401313208560529
@@ -175,4 +176,42 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a254490c697c387429a66dee67c8ca54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rb: {fileID: 5761657591915095144}
+  jumpHeight: 15
   moveSpeed: 5
+  groundCheckPoint: {fileID: 8593466130591866319}
+  groundCheckRadius: 0.2
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 128
+--- !u!1 &5993911948517349736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8593466130591866319}
+  m_Layer: 6
+  m_Name: GroundCheckPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8593466130591866319
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5993911948517349736}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7607170653671143730}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
