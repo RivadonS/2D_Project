@@ -1,112 +1,112 @@
 fileFormatVersion: 2
-guid: 0648cfecd3630a048a7c1d8e8a2ce5df
+guid: 233a4741cad9fef4fa11b7b223472d67
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6662137271825958530
-    second: GandalfHardcore Archer purple sheet_0
+      213: -885421491151327030
+    second: GandalfHardcore Archer yellow sheet_0
   - first:
-      213: -3859057012950073176
-    second: GandalfHardcore Archer purple sheet_1
+      213: -4162419250769124185
+    second: GandalfHardcore Archer yellow sheet_1
   - first:
-      213: 1947569147646210152
-    second: GandalfHardcore Archer purple sheet_2
+      213: 2954923037095586705
+    second: GandalfHardcore Archer yellow sheet_2
   - first:
-      213: -5260483405553845236
-    second: GandalfHardcore Archer purple sheet_3
+      213: 2205077038538841459
+    second: GandalfHardcore Archer yellow sheet_3
   - first:
-      213: 7021523488697643268
-    second: GandalfHardcore Archer purple sheet_4
+      213: -4224426591215246699
+    second: GandalfHardcore Archer yellow sheet_4
   - first:
-      213: -3415450874527043960
-    second: GandalfHardcore Archer purple sheet_5
+      213: 5252910051430375529
+    second: GandalfHardcore Archer yellow sheet_5
   - first:
-      213: 1247557244264990251
-    second: GandalfHardcore Archer purple sheet_6
+      213: 5345089989206424137
+    second: GandalfHardcore Archer yellow sheet_6
   - first:
-      213: -8636983278921538161
-    second: GandalfHardcore Archer purple sheet_7
+      213: 3282314555963742736
+    second: GandalfHardcore Archer yellow sheet_7
   - first:
-      213: 3405540352089935005
-    second: GandalfHardcore Archer purple sheet_8
+      213: 7251856439916731363
+    second: GandalfHardcore Archer yellow sheet_8
   - first:
-      213: -6960912387235012595
-    second: GandalfHardcore Archer purple sheet_9
+      213: 6115975770312874992
+    second: GandalfHardcore Archer yellow sheet_9
   - first:
-      213: 8288747166074294878
-    second: GandalfHardcore Archer purple sheet_10
+      213: -347360194623457250
+    second: GandalfHardcore Archer yellow sheet_10
   - first:
-      213: 7412522709575383286
-    second: GandalfHardcore Archer purple sheet_11
+      213: 1886348975320811967
+    second: GandalfHardcore Archer yellow sheet_11
   - first:
-      213: 2557796107753479670
-    second: GandalfHardcore Archer purple sheet_12
+      213: -7065607869593387226
+    second: GandalfHardcore Archer yellow sheet_12
   - first:
-      213: -8295538117597342124
-    second: GandalfHardcore Archer purple sheet_13
+      213: -3231488644994624875
+    second: GandalfHardcore Archer yellow sheet_13
   - first:
-      213: -3669831789297244320
-    second: GandalfHardcore Archer purple sheet_14
+      213: -3589172422670506670
+    second: GandalfHardcore Archer yellow sheet_14
   - first:
-      213: 2750861199606278807
-    second: GandalfHardcore Archer purple sheet_15
+      213: -7216454782201729127
+    second: GandalfHardcore Archer yellow sheet_15
   - first:
-      213: -3744775547681035328
-    second: GandalfHardcore Archer purple sheet_16
+      213: 1005990687872626480
+    second: GandalfHardcore Archer yellow sheet_16
   - first:
-      213: 6376507624949657218
-    second: GandalfHardcore Archer purple sheet_17
+      213: 6710436236217488805
+    second: GandalfHardcore Archer yellow sheet_17
   - first:
-      213: 4754272006820282334
-    second: GandalfHardcore Archer purple sheet_18
+      213: -6509545747803011455
+    second: GandalfHardcore Archer yellow sheet_18
   - first:
-      213: -8467806512773768789
-    second: GandalfHardcore Archer purple sheet_19
+      213: -6249246575715016201
+    second: GandalfHardcore Archer yellow sheet_19
   - first:
-      213: -8303114741401520298
-    second: GandalfHardcore Archer purple sheet_20
+      213: 7799418134441895386
+    second: GandalfHardcore Archer yellow sheet_20
   - first:
-      213: -323336392683729649
-    second: GandalfHardcore Archer purple sheet_21
+      213: 829336165609295995
+    second: GandalfHardcore Archer yellow sheet_21
   - first:
-      213: 1703729551909324600
-    second: GandalfHardcore Archer purple sheet_22
+      213: 247776593588546313
+    second: GandalfHardcore Archer yellow sheet_22
   - first:
-      213: 1927732087117074008
-    second: GandalfHardcore Archer purple sheet_23
+      213: 309291441013134559
+    second: GandalfHardcore Archer yellow sheet_23
   - first:
-      213: 6536461103519907326
-    second: GandalfHardcore Archer purple sheet_24
+      213: -6037798826158472017
+    second: GandalfHardcore Archer yellow sheet_24
   - first:
-      213: 3965841191421540144
-    second: GandalfHardcore Archer purple sheet_25
+      213: 3568241702890195683
+    second: GandalfHardcore Archer yellow sheet_25
   - first:
-      213: -5823413638059940282
-    second: GandalfHardcore Archer purple sheet_26
+      213: 3868176100288153431
+    second: GandalfHardcore Archer yellow sheet_26
   - first:
-      213: 1218296293473457310
-    second: GandalfHardcore Archer purple sheet_27
+      213: 2008403116727553485
+    second: GandalfHardcore Archer yellow sheet_27
   - first:
-      213: 8039265074703361427
-    second: GandalfHardcore Archer purple sheet_28
+      213: -1699484302804363279
+    second: GandalfHardcore Archer yellow sheet_28
   - first:
-      213: -1087807026147399184
-    second: GandalfHardcore Archer purple sheet_29
+      213: 4280811853670258873
+    second: GandalfHardcore Archer yellow sheet_29
   - first:
-      213: 6021919343491388726
-    second: GandalfHardcore Archer purple sheet_30
+      213: -2653604637929375057
+    second: GandalfHardcore Archer yellow sheet_30
   - first:
-      213: 5829264714827163485
-    second: GandalfHardcore Archer purple sheet_31
+      213: -1288061686419588616
+    second: GandalfHardcore Archer yellow sheet_31
   - first:
-      213: -5485969475729468016
-    second: GandalfHardcore Archer purple sheet_32
+      213: 2243787530534552411
+    second: GandalfHardcore Archer yellow sheet_32
   - first:
-      213: 1547802817879042961
-    second: GandalfHardcore Archer purple sheet_33
+      213: 3574123253871360156
+    second: GandalfHardcore Archer yellow sheet_33
   - first:
-      213: -2319043859981912104
-    second: GandalfHardcore Archer purple sheet_34
+      213: -6549561749778613195
+    second: GandalfHardcore Archer yellow sheet_34
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,7 +139,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -153,7 +153,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -215,13 +215,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_0
+      name: GandalfHardcore Archer yellow sheet_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 255
-        width: 34
-        height: 45
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,20 +230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 286831c1d8aa47c50800000000000000
-      internalID: 6662137271825958530
+      spriteID: ac0bd6f48d956b3f0800000000000000
+      internalID: -885421491151327030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_1
+      name: GandalfHardcore Archer yellow sheet_1
       rect:
         serializedVersion: 2
-        x: 73
-        y: 255
-        width: 34
-        height: 45
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,20 +252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a08127c710e17ac0800000000000000
-      internalID: -3859057012950073176
+      spriteID: 7a4a8afaebd1c36c0800000000000000
+      internalID: -4162419250769124185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_2
+      name: GandalfHardcore Archer yellow sheet_2
       rect:
         serializedVersion: 2
-        x: 137
-        y: 255
-        width: 34
-        height: 44
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,20 +274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86076f432d7270b10800000000000000
-      internalID: 1947569147646210152
+      spriteID: 19b63bca8def10920800000000000000
+      internalID: 2954923037095586705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_3
+      name: GandalfHardcore Archer yellow sheet_3
       rect:
         serializedVersion: 2
-        x: 201
-        y: 255
-        width: 34
-        height: 45
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,20 +296,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0c3021c6320ff6b0800000000000000
-      internalID: -5260483405553845236
+      spriteID: 37d5a7032e10a9e10800000000000000
+      internalID: 2205077038538841459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_4
+      name: GandalfHardcore Archer yellow sheet_4
       rect:
         serializedVersion: 2
-        x: 265
-        y: 255
-        width: 34
-        height: 45
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,20 +318,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40172ed4966717160800000000000000
-      internalID: 7021523488697643268
+      spriteID: 592a6e2b562df55c0800000000000000
+      internalID: -4224426591215246699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_5
+      name: GandalfHardcore Archer yellow sheet_5
       rect:
         serializedVersion: 2
-        x: 9
-        y: 191
-        width: 34
-        height: 45
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,20 +340,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88ea4048681e990d0800000000000000
-      internalID: -3415450874527043960
+      spriteID: 96026945cd516e840800000000000000
+      internalID: 5252910051430375529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_6
+      name: GandalfHardcore Archer yellow sheet_6
       rect:
         serializedVersion: 2
-        x: 73
-        y: 191
-        width: 49
-        height: 45
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,20 +362,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b26416d24b6305110800000000000000
-      internalID: 1247557244264990251
+      spriteID: 94a352396039d2a40800000000000000
+      internalID: 5345089989206424137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_7
+      name: GandalfHardcore Archer yellow sheet_7
       rect:
         serializedVersion: 2
-        x: 137
-        y: 191
-        width: 52
-        height: 47
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +384,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f85a4e0f775432880800000000000000
-      internalID: -8636983278921538161
+      spriteID: 01a105db2bf1d8d20800000000000000
+      internalID: 3282314555963742736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_8
+      name: GandalfHardcore Archer yellow sheet_8
       rect:
         serializedVersion: 2
-        x: 201
-        y: 191
-        width: 45
-        height: 48
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,20 +406,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9c449a28e8e24f20800000000000000
-      internalID: 3405540352089935005
+      spriteID: 3eb9d579205c3a460800000000000000
+      internalID: 7251856439916731363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_9
+      name: GandalfHardcore Archer yellow sheet_9
       rect:
         serializedVersion: 2
-        x: 264
-        y: 191
-        width: 44
-        height: 49
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,20 +428,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d00ad36701fd56f90800000000000000
-      internalID: -6960912387235012595
+      spriteID: 0fb156c2f8f40e450800000000000000
+      internalID: 6115975770312874992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_10
+      name: GandalfHardcore Archer yellow sheet_10
       rect:
         serializedVersion: 2
-        x: 328
-        y: 191
-        width: 43
-        height: 49
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,20 +450,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5252e2c1ab870370800000000000000
-      internalID: 8288747166074294878
+      spriteID: e18bb5e4ebded2bf0800000000000000
+      internalID: -347360194623457250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_11
+      name: GandalfHardcore Archer yellow sheet_11
       rect:
         serializedVersion: 2
-        x: 391
-        y: 191
-        width: 42
-        height: 49
+        x: 384
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,20 +472,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f8b1c191229ed660800000000000000
-      internalID: 7412522709575383286
+      spriteID: fb94b641668ad2a10800000000000000
+      internalID: 1886348975320811967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_12
+      name: GandalfHardcore Archer yellow sheet_12
       rect:
         serializedVersion: 2
-        x: 456
-        y: 191
-        width: 42
-        height: 49
+        x: 448
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,20 +494,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6fdd58a120e1f7320800000000000000
-      internalID: 2557796107753479670
+      spriteID: 62f7eaae31be1fd90800000000000000
+      internalID: -7065607869593387226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_13
+      name: GandalfHardcore Archer yellow sheet_13
       rect:
         serializedVersion: 2
-        x: 521
-        y: 191
-        width: 54
-        height: 48
+        x: 512
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,20 +516,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 456d5ef980450ec80800000000000000
-      internalID: -8295538117597342124
+      spriteID: 5921363d2327723d0800000000000000
+      internalID: -3231488644994624875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_14
+      name: GandalfHardcore Archer yellow sheet_14
       rect:
         serializedVersion: 2
-        x: 585
-        y: 191
-        width: 35
-        height: 47
+        x: 576
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,20 +538,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06760856e63221dc0800000000000000
-      internalID: -3669831789297244320
+      spriteID: 255a815a2b2b03ec0800000000000000
+      internalID: -3589172422670506670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_15
+      name: GandalfHardcore Archer yellow sheet_15
       rect:
         serializedVersion: 2
-        x: 624
-        y: 191
-        width: 59
-        height: 45
+        x: 640
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,174 +560,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79aefe4bfa50d2620800000000000000
-      internalID: 2750861199606278807
+      spriteID: 99f62392c900adb90800000000000000
+      internalID: -7216454782201729127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_16
+      name: GandalfHardcore Archer yellow sheet_16
       rect:
         serializedVersion: 2
-        x: 9
-        y: 127
-        width: 34
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0cb27e4ea72e70cc0800000000000000
-      internalID: -3744775547681035328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_17
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 127
-        width: 34
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 28ea1b496e7ed7850800000000000000
-      internalID: 6376507624949657218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_18
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 127
-        width: 34
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: edf3b1473319af140800000000000000
-      internalID: 4754272006820282334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_19
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 127
-        width: 34
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba9516b47de4c7a80800000000000000
-      internalID: -8467806512773768789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_20
-      rect:
-        serializedVersion: 2
-        x: 265
-        y: 127
-        width: 34
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 657f37d622965cc80800000000000000
-      internalID: -8303114741401520298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_21
-      rect:
-        serializedVersion: 2
-        x: 329
-        y: 127
-        width: 34
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0d41239347438bf0800000000000000
-      internalID: -323336392683729649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_22
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 127
-        width: 34
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 83704ee200dd4a710800000000000000
-      internalID: 1703729551909324600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_23
-      rect:
-        serializedVersion: 2
-        x: 457
+        x: 0
         y: 128
-        width: 34
-        height: 44
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -736,20 +582,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85e4cb2ae1ea0ca10800000000000000
-      internalID: 1927732087117074008
+      spriteID: 03faffd533ff5fd00800000000000000
+      internalID: 1005990687872626480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_24
+      name: GandalfHardcore Archer yellow sheet_17
       rect:
         serializedVersion: 2
-        x: 9
-        y: 63
-        width: 34
-        height: 45
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,20 +604,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efd3673fdbc26ba50800000000000000
-      internalID: 6536461103519907326
+      spriteID: 5a517a31432402d50800000000000000
+      internalID: 6710436236217488805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_25
+      name: GandalfHardcore Archer yellow sheet_18
       rect:
         serializedVersion: 2
-        x: 71
-        y: 63
-        width: 34
-        height: 44
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -780,20 +626,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 037fa4a3d8f790730800000000000000
-      internalID: 3965841191421540144
+      spriteID: 1860c05a1a279a5a0800000000000000
+      internalID: -6509545747803011455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_26
+      name: GandalfHardcore Archer yellow sheet_19
       rect:
         serializedVersion: 2
-        x: 134
-        y: 63
-        width: 35
-        height: 43
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -802,20 +648,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 646a54366241f2fa0800000000000000
-      internalID: -5823413638059940282
+      spriteID: 7f12eac69573649a0800000000000000
+      internalID: -6249246575715016201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_27
+      name: GandalfHardcore Archer yellow sheet_20
       rect:
         serializedVersion: 2
-        x: 201
-        y: 63
-        width: 34
-        height: 44
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -824,20 +670,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9419ab260248e010800000000000000
-      internalID: 1218296293473457310
+      spriteID: ad5262e58791d3c60800000000000000
+      internalID: 7799418134441895386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_28
+      name: GandalfHardcore Archer yellow sheet_21
       rect:
         serializedVersion: 2
-        x: 265
-        y: 63
-        width: 34
-        height: 45
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,20 +692,174 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 395e5e8ddf4319f60800000000000000
-      internalID: 8039265074703361427
+      spriteID: b70d68e39d4628b00800000000000000
+      internalID: 829336165609295995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_29
+      name: GandalfHardcore Archer yellow sheet_22
       rect:
         serializedVersion: 2
-        x: 10
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b6084cf77407300800000000000000
+      internalID: 247776593588546313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Archer yellow sheet_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd418a94de2da4400800000000000000
+      internalID: 309291441013134559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Archer yellow sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4cd8d05fd653ca0800000000000000
+      internalID: -6037798826158472017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Archer yellow sheet_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea41856ce0f48130800000000000000
+      internalID: 3568241702890195683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Archer yellow sheet_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c4523ba58ea530800000000000000
+      internalID: 3868176100288153431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Archer yellow sheet_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd45526ef74fdb10800000000000000
+      internalID: 2008403116727553485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Archer yellow sheet_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f75ef5e7083a68e0800000000000000
+      internalID: -1699484302804363279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Archer yellow sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
-        width: 34
-        height: 44
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,20 +868,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f96f4ee54557e0f0800000000000000
-      internalID: -1087807026147399184
+      spriteID: 9b81c4043bf786b30800000000000000
+      internalID: 4280811853670258873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_30
+      name: GandalfHardcore Archer yellow sheet_30
       rect:
         serializedVersion: 2
-        x: 75
+        x: 64
         y: 0
-        width: 34
-        height: 42
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,20 +890,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6359bd6ccb7229350800000000000000
-      internalID: 6021919343491388726
+      spriteID: faaf3e524a08c2bd0800000000000000
+      internalID: -2653604637929375057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_31
+      name: GandalfHardcore Archer yellow sheet_31
       rect:
         serializedVersion: 2
-        x: 139
+        x: 128
         y: 0
-        width: 35
-        height: 40
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -912,20 +912,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d57edf49f55b5e050800000000000000
-      internalID: 5829264714827163485
+      spriteID: 8f97b2c78b2ef1ee0800000000000000
+      internalID: -1288061686419588616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_32
+      name: GandalfHardcore Archer yellow sheet_32
       rect:
         serializedVersion: 2
-        x: 203
+        x: 192
         y: 0
-        width: 53
-        height: 39
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -934,20 +934,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0955286e3dbedd3b0800000000000000
-      internalID: -5485969475729468016
+      spriteID: b5386f4fed8832f10800000000000000
+      internalID: 2243787530534552411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_33
+      name: GandalfHardcore Archer yellow sheet_33
       rect:
         serializedVersion: 2
-        x: 267
+        x: 256
         y: 0
-        width: 53
-        height: 16
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -956,20 +956,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19b67065676ea7510800000000000000
-      internalID: 1547802817879042961
+      spriteID: c983772b926d99130800000000000000
+      internalID: 3574123253871360156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GandalfHardcore Archer purple sheet_34
+      name: GandalfHardcore Archer yellow sheet_34
       rect:
         serializedVersion: 2
-        x: 331
+        x: 320
         y: 0
-        width: 53
-        height: 17
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -978,8 +978,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d73a3b65e911dfd0800000000000000
-      internalID: -2319043859981912104
+      spriteID: 53cb5f52a484b15a0800000000000000
+      internalID: -6549561749778613195
       vertices: []
       indices: 
       edges: []
@@ -988,7 +988,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b94772274610f474a9a4a6c0a602ded7
     internalID: 0
     vertices: []
     indices: 
@@ -998,41 +998,41 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GandalfHardcore Archer purple sheet_0: 6662137271825958530
-      GandalfHardcore Archer purple sheet_1: -3859057012950073176
-      GandalfHardcore Archer purple sheet_10: 8288747166074294878
-      GandalfHardcore Archer purple sheet_11: 7412522709575383286
-      GandalfHardcore Archer purple sheet_12: 2557796107753479670
-      GandalfHardcore Archer purple sheet_13: -8295538117597342124
-      GandalfHardcore Archer purple sheet_14: -3669831789297244320
-      GandalfHardcore Archer purple sheet_15: 2750861199606278807
-      GandalfHardcore Archer purple sheet_16: -3744775547681035328
-      GandalfHardcore Archer purple sheet_17: 6376507624949657218
-      GandalfHardcore Archer purple sheet_18: 4754272006820282334
-      GandalfHardcore Archer purple sheet_19: -8467806512773768789
-      GandalfHardcore Archer purple sheet_2: 1947569147646210152
-      GandalfHardcore Archer purple sheet_20: -8303114741401520298
-      GandalfHardcore Archer purple sheet_21: -323336392683729649
-      GandalfHardcore Archer purple sheet_22: 1703729551909324600
-      GandalfHardcore Archer purple sheet_23: 1927732087117074008
-      GandalfHardcore Archer purple sheet_24: 6536461103519907326
-      GandalfHardcore Archer purple sheet_25: 3965841191421540144
-      GandalfHardcore Archer purple sheet_26: -5823413638059940282
-      GandalfHardcore Archer purple sheet_27: 1218296293473457310
-      GandalfHardcore Archer purple sheet_28: 8039265074703361427
-      GandalfHardcore Archer purple sheet_29: -1087807026147399184
-      GandalfHardcore Archer purple sheet_3: -5260483405553845236
-      GandalfHardcore Archer purple sheet_30: 6021919343491388726
-      GandalfHardcore Archer purple sheet_31: 5829264714827163485
-      GandalfHardcore Archer purple sheet_32: -5485969475729468016
-      GandalfHardcore Archer purple sheet_33: 1547802817879042961
-      GandalfHardcore Archer purple sheet_34: -2319043859981912104
-      GandalfHardcore Archer purple sheet_4: 7021523488697643268
-      GandalfHardcore Archer purple sheet_5: -3415450874527043960
-      GandalfHardcore Archer purple sheet_6: 1247557244264990251
-      GandalfHardcore Archer purple sheet_7: -8636983278921538161
-      GandalfHardcore Archer purple sheet_8: 3405540352089935005
-      GandalfHardcore Archer purple sheet_9: -6960912387235012595
+      GandalfHardcore Archer yellow sheet_0: -885421491151327030
+      GandalfHardcore Archer yellow sheet_1: -4162419250769124185
+      GandalfHardcore Archer yellow sheet_10: -347360194623457250
+      GandalfHardcore Archer yellow sheet_11: 1886348975320811967
+      GandalfHardcore Archer yellow sheet_12: -7065607869593387226
+      GandalfHardcore Archer yellow sheet_13: -3231488644994624875
+      GandalfHardcore Archer yellow sheet_14: -3589172422670506670
+      GandalfHardcore Archer yellow sheet_15: -7216454782201729127
+      GandalfHardcore Archer yellow sheet_16: 1005990687872626480
+      GandalfHardcore Archer yellow sheet_17: 6710436236217488805
+      GandalfHardcore Archer yellow sheet_18: -6509545747803011455
+      GandalfHardcore Archer yellow sheet_19: -6249246575715016201
+      GandalfHardcore Archer yellow sheet_2: 2954923037095586705
+      GandalfHardcore Archer yellow sheet_20: 7799418134441895386
+      GandalfHardcore Archer yellow sheet_21: 829336165609295995
+      GandalfHardcore Archer yellow sheet_22: 247776593588546313
+      GandalfHardcore Archer yellow sheet_23: 309291441013134559
+      GandalfHardcore Archer yellow sheet_24: -6037798826158472017
+      GandalfHardcore Archer yellow sheet_25: 3568241702890195683
+      GandalfHardcore Archer yellow sheet_26: 3868176100288153431
+      GandalfHardcore Archer yellow sheet_27: 2008403116727553485
+      GandalfHardcore Archer yellow sheet_28: -1699484302804363279
+      GandalfHardcore Archer yellow sheet_29: 4280811853670258873
+      GandalfHardcore Archer yellow sheet_3: 2205077038538841459
+      GandalfHardcore Archer yellow sheet_30: -2653604637929375057
+      GandalfHardcore Archer yellow sheet_31: -1288061686419588616
+      GandalfHardcore Archer yellow sheet_32: 2243787530534552411
+      GandalfHardcore Archer yellow sheet_33: 3574123253871360156
+      GandalfHardcore Archer yellow sheet_34: -6549561749778613195
+      GandalfHardcore Archer yellow sheet_4: -4224426591215246699
+      GandalfHardcore Archer yellow sheet_5: 5252910051430375529
+      GandalfHardcore Archer yellow sheet_6: 5345089989206424137
+      GandalfHardcore Archer yellow sheet_7: 3282314555963742736
+      GandalfHardcore Archer yellow sheet_8: 7251856439916731363
+      GandalfHardcore Archer yellow sheet_9: 6115975770312874992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
