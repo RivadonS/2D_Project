@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    private Animator animator;
+
     public Rigidbody2D rb;
     public float jumpHeight = 15f;
     public float moveSpeed = 5f;
@@ -19,6 +21,7 @@ public class Player : MonoBehaviour
     {
         isGrounded = true;
         facingRight = true;
+        animator = this.gameObject.GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -39,11 +42,24 @@ public class Player : MonoBehaviour
         }
 
         Flip();
+        PlayRunAnimation();
     }
 
     private void FixedUpdate()
     {
         transform.position += new Vector3(movement * moveSpeed, 0f, 0f) *Time.fixedDeltaTime;
+    }
+
+    void PlayRunAnimation()
+    {
+        if (Mathf.Abs(movement) > 0f)
+        {
+            animator.SetFloat("Run", 1f);
+        } 
+        else if (movement < 0.1f)
+        {
+            animator.SetFloat("Run", 0f);
+        }
     }
 
     void Flip()
