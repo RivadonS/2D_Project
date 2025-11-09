@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Animations;
 
 public class Player : MonoBehaviour
 {
@@ -84,6 +85,15 @@ public class Player : MonoBehaviour
             velocity.y = jumpHeight;
             rb.linearVelocity = velocity;
             isGrounded = false;
+            animator.SetBool("Jump", true);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Ground")
+        {
+            animator.SetBool("Jump", false);
         }
     }
 
