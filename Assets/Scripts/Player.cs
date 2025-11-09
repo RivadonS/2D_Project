@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
 
     private float movement;
     private bool isGrounded;
+    private bool facingRight;
 
     public Transform groundCheckPoint;
     public float groundCheckRadius = .2f;
@@ -17,6 +18,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         isGrounded = true;
+        facingRight = true;
     }
 
     // Update is called once per frame
@@ -35,11 +37,27 @@ public class Player : MonoBehaviour
         {
             isGrounded = true;
         }
+
+        Flip();
     }
 
     private void FixedUpdate()
     {
         transform.position += new Vector3(movement * moveSpeed, 0f, 0f) *Time.fixedDeltaTime;
+    }
+
+    void Flip()
+    {
+        if (movement < 0f && facingRight == true)
+        {
+            transform.eulerAngles = new Vector3(0f,-180f,0f);
+            facingRight = false;
+        }
+        else if (movement > 0f && facingRight == false)
+        {
+            transform.eulerAngles = new Vector3(0f, 0f, 0f);
+            facingRight = true;
+        }
     }
 
     void Jump()
