@@ -308,7 +308,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Player_FIreArrow
+  m_Name: Player_FireArrow
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -475,7 +475,7 @@ AnimatorStateMachine:
     m_Position: {x: -60, y: 250, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1399073716730748875}
-    m_Position: {x: 570, y: 110, z: 0}
+    m_Position: {x: 560, y: 90, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7299240347397593241}
     m_Position: {x: -140, y: 80, z: 0}
