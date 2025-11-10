@@ -44,6 +44,11 @@ public class Player : MonoBehaviour
 
         Flip();
         PlayRunAnimation();
+
+        if (Input.GetMouseButtonDown(0))
+        {
+            animator.SetTrigger("Fire");
+        }
     }
 
     private void FixedUpdate()
